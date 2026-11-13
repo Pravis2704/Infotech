@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="nexoraGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="50%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+    <linearGradient id="nexoraGrad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="goldSheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5DF9E" />
+      <stop offset="50%" stop-color="#C69235" />
+      <stop offset="100%" stop-color="#9C6C1B" />
+    </linearGradient>
+  </defs>
+  <!-- Modern Geometric 'N' Logo Mark inspired by the reference design -->
+  <path d="M10 8C10 5.79086 11.7909 4 14 4H16C18.2091 4 20 5.79086 20 8V28.5L31.8 10.8C33.2 8.7 35.6 7.5 38.1 7.6C41.4 7.8 44 10.5 44 13.8V40C44 42.2091 42.2091 44 40 44H38C35.7909 44 34 42.2091 34 40V19.5L22.2 37.2C20.8 39.3 18.4 40.5 15.9 40.4C12.6 40.2 10 37.5 10 34.2V8Z" fill="url(#nexoraGrad1)" />
+  <circle cx="39" cy="9" r="4" fill="url(#goldSheen)" />
+</svg>
